@@ -173,7 +173,6 @@ int lerColuna() {
     return coluna;
 }
 
-
 //GAME
 int main() {
     Quadro quadro;
