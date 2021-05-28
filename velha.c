@@ -1,3 +1,6 @@
+/*
+Autor: Wanderson Gomes da Costa
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
